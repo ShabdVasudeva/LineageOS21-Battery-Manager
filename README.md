@@ -1,5 +1,6 @@
 # LineageOS21-Battery-Manager
 A battery manager based on Aosp Lineage OS 21 wth pixel mix theme. to convert your stock Android ui into aosp ui install this application.
+![alt text](https://github.com/[ShabdVasudeva]/[LineageOS21-Battery-Manager]/blob/[branch]/battery1.jpg?raw=true)
 
 ## Features
 

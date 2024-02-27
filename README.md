@@ -12,7 +12,7 @@ A battery manager based on Aosp Lineage OS 21 wth pixel mix theme. to convert yo
 
 To install My Awesome Android App, follow these steps:
 
-1. Download the APK file from realeases(https://github.com/ShabdVasudeva/LineageOS21BatteryManager/releases).
+1. Download the APK file from realeases([here](https://github.com/ShabdVasudeva/LineageOS21-Battery-Manager/releases/download/LineageOS21BatteryManager/LineageOS21BatteryManager.apk)).
 2. Allow installation from unknown sources in your device settings.
 3. Open the APK file to install the app.
 
